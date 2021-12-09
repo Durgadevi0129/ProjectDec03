@@ -10,4 +10,9 @@ public class Employee {
 		Employee e = new Employee();
 		e.add(10, 20);
 	}
+	public void sub(int a, int b) {
+		int sub =a-b;
+		System.out.println(sub);
+
+	}
 }
